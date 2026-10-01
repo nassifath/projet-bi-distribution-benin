@@ -110,5 +110,5 @@ python visualisation.py
 
 ## 👤 Auteur
 
-**Sobour SANNI** — Data Analyst  
+**Nassifath SANNI** — Data Analyst  
 *Projet réalisé dans le cadre d'un apprentissage pratique de l'analyse de données*
